@@ -1,0 +1,75 @@
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??clonedRuleSet-1[0].rules[0].use[1]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-1[0].rules[0].use[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./src/app.vue?vue&type=style&index=0&id=5ef48958&lang=scss&scoped=true& ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.v-enter-active[data-v-5ef48958],
+.v-leave-active[data-v-5ef48958] {
+  transition: opacity 0.5s;
+}
+.v-enter[data-v-5ef48958],
+.v-leave-to[data-v-5ef48958] {
+  opacity: 0;
+}
+.ln-wrapper[data-v-5ef48958] {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.ln-wrapper .ln-bg[data-v-5ef48958] {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(30, 30, 30, 0.9);
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 5000;
+}
+.ln-wrapper .ln-body[data-v-5ef48958] {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 98%;
+  max-width: 400px;
+  padding: 15px;
+  background-color: #fff;
+  z-index: 5001;
+  border-radius: 5px;
+}
+.ln-wrapper .ln-input[data-v-5ef48958] {
+  border-bottom: 2px solid #e1e6ea;
+  padding-bottom: 15px;
+}
+.ln-wrapper .ln-ctrl[data-v-5ef48958] {
+  padding: 15px 0 0;
+  display: flex;
+  justify-content: space-between;
+}
+.ln-wrapper .ln-b[data-v-5ef48958] {
+  display: inline-block;
+  height: 40px;
+  min-width: 80px;
+  text-align: center;
+  border-radius: 4px;
+  font-weight: 700;
+  font-size: 16px;
+  padding: 6px 20px;
+  cursor: pointer;
+}
+.ln-wrapper .ln-b.ln-yes[data-v-5ef48958] {
+  background-color: white;
+  color: #0096d9;
+  border: #0096d9 2px solid;
+}
+.ln-wrapper .ln-b.ln-no[data-v-5ef48958] {
+  background-color: #0096d9;
+  color: white;
+  border: none;
+}
+.ln-wrapper .ls-notice[data-v-5ef48958] {
+  display: flex;
+  align-items: center;
+}
+.ln-wrapper .ls-notice .ls-notice-label[data-v-5ef48958] {
+  margin-left: 10px;
+}
